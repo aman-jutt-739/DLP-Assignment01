@@ -94,6 +94,6 @@ Compared to the Part 2 ReLU baseline (89.41% validation accuracy), the tuned mod
 3. GPU (CUDA) is used automatically where available for the PyTorch verification steps; the core MLP implementation runs on NumPy/CPU.
 
 ## Author
-
+Aman - Roll No. 23F-0605
 Ahmad — Roll No. 23F-0707
 NUCES Chiniot-Faisalabad Campus, AL2002 (Artificial Intelligence)
